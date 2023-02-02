@@ -1,0 +1,11 @@
+These settings are for the Unity Sprite Editor, they might not work with other editors or engines.
+
+
+Size X: 16
+Size Y: 26
+
+Offset X: 24
+Offset Y: 19
+
+Padding X: 48
+Padding Y: 38
