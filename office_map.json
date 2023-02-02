@@ -119,7 +119,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map_original1.json"
+                 "value":"schule.json"
                 }],
          "type":"tilelayer",
          "visible":true,
