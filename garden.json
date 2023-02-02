@@ -27,7 +27,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"schule.json"
+                 "value":"map_original1.json"
                 }],
          "type":"tilelayer",
          "visible":true,
