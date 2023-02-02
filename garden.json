@@ -487,7 +487,7 @@
         {
          "columns":6,
          "firstgid":1,
-         "image":"..\/tilesets\/WA_Special_Zones.png",
+         "image":"tilesets\/WA_Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -510,7 +510,7 @@
         {
          "columns":12,
          "firstgid":10,
-         "image":"..\/tilesets\/WA_Decoration.png",
+         "image":"tilesets\/WA_Decoration.png",
          "imageheight":256,
          "imagewidth":384,
          "margin":0,
@@ -523,7 +523,7 @@
         {
          "columns":10,
          "firstgid":10,
-         "image":"..\/tilesets\/WA_Miscellaneous.png",
+         "image":"tilesets\/WA_Miscellaneous.png",
          "imageheight":352,
          "imagewidth":320,
          "margin":0,
@@ -536,7 +536,7 @@
         {
          "columns":12,
          "firstgid":10,
-         "image":"..\/tilesets\/WA_Other_Furniture.png",
+         "image":"tilesets\/WA_Other_Furniture.png",
          "imageheight":416,
          "imagewidth":384,
          "margin":0,
@@ -549,7 +549,7 @@
         {
          "columns":25,
          "firstgid":10,
-         "image":"..\/tilesets\/WA_Room_Builder.png",
+         "image":"tilesets\/WA_Room_Builder.png",
          "imageheight":1280,
          "imagewidth":800,
          "margin":0,
@@ -562,7 +562,7 @@
         {
          "columns":13,
          "firstgid":10,
-         "image":"..\/tilesets\/WA_Seats.png",
+         "image":"tilesets\/WA_Seats.png",
          "imageheight":448,
          "imagewidth":416,
          "margin":0,
@@ -575,7 +575,7 @@
         {
          "columns":10,
          "firstgid":10,
-         "image":"..\/tilesets\/WA_Tables.png",
+         "image":"tilesets\/WA_Tables.png",
          "imageheight":864,
          "imagewidth":320,
          "margin":0,
@@ -588,7 +588,7 @@
         {
          "columns":6,
          "firstgid":10,
-         "image":"..\/tilesets\/WA_Logo_Long.png",
+         "image":"tilesets\/WA_Logo_Long.png",
          "imageheight":32,
          "imagewidth":192,
          "margin":0,
@@ -601,7 +601,7 @@
         {
          "columns":25,
          "firstgid":10,
-         "image":"..\/tilesets\/WA_Exterior.png",
+         "image":"tilesets\/WA_Exterior.png",
          "imageheight":1088,
          "imagewidth":800,
          "margin":0,
@@ -614,7 +614,7 @@
         {
          "columns":13,
          "firstgid":10,
-         "image":"..\/tilesets\/WA_User_Interface.png",
+         "image":"tilesets\/WA_User_Interface.png",
          "imageheight":672,
          "imagewidth":416,
          "margin":0,
@@ -627,7 +627,7 @@
         {
          "columns":16,
          "firstgid":10,
-         "image":"..\/tilesets\/WA_Village Props.png",
+         "image":"tilesets\/WA_Village Props.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -640,7 +640,7 @@
         {
          "columns":8,
          "firstgid":258,
-         "image":"..\/tilesets\/TX Tileset Grass.png",
+         "image":"tilesets\/TX Tileset Grass.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -653,7 +653,7 @@
         {
          "columns":16,
          "firstgid":320,
-         "image":"..\/tilesets\/TX Props.png",
+         "image":"tilesets\/TX Props.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -666,7 +666,7 @@
         {
          "columns":16,
          "firstgid":570,
-         "image":"..\/tilesets\/TX Shadow.png",
+         "image":"tilesets\/TX Shadow.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -679,7 +679,7 @@
         {
          "columns":16,
          "firstgid":816,
-         "image":"..\/tilesets\/TX Tileset Wall.png",
+         "image":"tilesets\/TX Tileset Wall.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -692,7 +692,7 @@
         {
          "columns":16,
          "firstgid":979,
-         "image":"..\/tilesets\/TX Plant.png",
+         "image":"tilesets\/TX Plant.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -705,7 +705,7 @@
         {
          "columns":28,
          "firstgid":1104,
-         "image":"..\/tilesets\/redNormal.png.png",
+         "image":"tilesets\/redNormal.png.png",
          "imageheight":900,
          "imagewidth":900,
          "margin":0,
@@ -718,7 +718,7 @@
         {
          "columns":21,
          "firstgid":1163,
-         "image":"..\/tilesets\/purpleSmall.png.png",
+         "image":"tilesets\/purpleSmall.png.png",
          "imageheight":700,
          "imagewidth":700,
          "margin":0,
